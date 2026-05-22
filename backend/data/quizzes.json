@@ -1,6 +1,7 @@
 {
-  "inheritance_quizzes": [
+  "inheritance": [
     {
+      "number": 1,
       "question": "What is inheritance in object-oriented programming?",
       "options": [
         "A way to create new classes based on existing ones",
@@ -11,6 +12,7 @@
       "answer": "A way to create new classes based on existing ones"
     },
     {
+      "number": 2,
       "question": "Which keyword is commonly used in many languages to define a subclass?",
       "options": [
         "extends",
@@ -21,6 +23,7 @@
       "answer": "extends"
     },
     {
+      "number": 3,
       "question": "In inheritance, what is the class called that provides properties and methods to another class?",
       "options": [
         "Parent class",
@@ -31,6 +34,7 @@
       "answer": "Parent class"
     },
     {
+      "number": 4,
       "question": "Which of the following is a benefit of using inheritance?",
       "options": [
         "Code reuse",
@@ -41,6 +45,7 @@
       "answer": "Code reuse"
     },
     {
+      "number": 5,
       "question": "What relationship does inheritance represent between classes?",
       "options": [
         "Is-a relationship",
@@ -51,6 +56,7 @@
       "answer": "Is-a relationship"
     },
     {
+      "number": 6,
       "question": "If class B inherits from class A, which class can access protected methods defined in A?",
       "options": [
         "Class B",
@@ -61,8 +67,9 @@
       "answer": "Class B"
     }
   ],
-  "polymorphism_quizzes": [
+  "polymorphism": [
     {
+      "number": 1,
       "question": "What is polymorphism in object-oriented programming?",
       "options": [
         "The ability of objects to take on many forms",
@@ -73,6 +80,7 @@
       "answer": "The ability of objects to take on many forms"
     },
     {
+      "number": 2,
       "question": "Which feature of polymorphism allows a single interface to represent different underlying forms?",
       "options": [
         "Method overriding",
@@ -83,6 +91,7 @@
       "answer": "Method overriding"
     },
     {
+      "number": 3,
       "question": "In polymorphism, what does it mean when a subclass provides its own version of a method from the superclass?",
       "options": [
         "The method is overridden",
@@ -93,6 +102,7 @@
       "answer": "The method is overridden"
     },
     {
+      "number": 4,
       "question": "Which type of polymorphism is resolved at runtime?",
       "options": [
         "Dynamic polymorphism",
@@ -103,6 +113,7 @@
       "answer": "Dynamic polymorphism"
     },
     {
+      "number": 5,
       "question": "What is an example of polymorphism in many programming languages?",
       "options": [
         "A subclass instance used where a superclass type is expected",
