@@ -1,3 +1,5 @@
+import KnowledgeCheckpoint from '../components/KnowledgeCheckpoint';
+
 const CODE_ANIMAL = `// Superclass
 public class Animal {
     protected String name;
@@ -247,7 +249,15 @@ export default function InheritancePage() {
           </section>
         </div>
 
-        
+        <div className="checkpoint-wrapper">
+          <div className="lesson-container">
+            <KnowledgeCheckpoint
+              topicId="inheritance"
+              nextPath="/polymorphism"
+              nextLabel="Polymorphism"
+            />
+          </div>
+        </div>
       </main>
     </div>
   );

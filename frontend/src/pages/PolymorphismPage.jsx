@@ -1,3 +1,5 @@
+import KnowledgeCheckpoint from '../components/KnowledgeCheckpoint';
+
 const CODE_SHAPE_BASE = `public class Shape {
     public double area() {
         return 0.0;
@@ -267,7 +269,11 @@ export default function PolymorphismPage() {
           </section>
         </div>
 
-        
+        <div className="checkpoint-wrapper">
+          <div className="lesson-container">
+            <KnowledgeCheckpoint topicId="polymorphism" />
+          </div>
+        </div>
       </main>
     </div>
   );
