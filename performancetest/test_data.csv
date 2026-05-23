@@ -1,0 +1,15 @@
+quiz_name,question_number,attempted_answer,expected_result
+inheritance,1,A way to create new classes based on existing ones,true
+inheritance,2,extends,true
+inheritance,3,Parent class,true
+inheritance,4,Code reuse,true
+inheritance,5,Is-a relationship,true
+inheritance,6,Class B,true
+polymorphism,1,The ability of objects to take on many forms,true
+polymorphism,2,Method overriding,true
+polymorphism,3,The method is overridden,true
+polymorphism,4,Dynamic polymorphism,true
+polymorphism,5,A subclass instance used where a superclass type is expected,true
+inheritance,1,A method of data encapsulation,false
+inheritance,2,implements,false
+polymorphism,1,A way to store data in arrays,false
