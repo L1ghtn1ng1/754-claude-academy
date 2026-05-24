@@ -4,9 +4,9 @@
       "number": 1,
       "question": "What is inheritance in object-oriented programming?",
       "options": [
-        "A way to create new classes based on existing ones",
         "A method of data encapsulation",
         "A technique for error handling",
+        "A way to create new classes based on existing ones",
         "A design pattern for user interfaces"
       ],
       "answer": "A way to create new classes based on existing ones"
@@ -15,10 +15,10 @@
       "number": 2,
       "question": "Which keyword is commonly used in many languages to define a subclass?",
       "options": [
-        "extends",
         "implements",
         "imports",
-        "includes"
+        "includes",
+        "extends"
       ],
       "answer": "extends"
     },
@@ -26,8 +26,8 @@
       "number": 3,
       "question": "In inheritance, what is the class called that provides properties and methods to another class?",
       "options": [
-        "Parent class",
         "Child class",
+        "Parent class",
         "Interface",
         "Module"
       ],
@@ -37,10 +37,10 @@
       "number": 4,
       "question": "Which of the following is a benefit of using inheritance?",
       "options": [
-        "Code reuse",
         "Slower performance",
         "Increased memory usage",
-        "Reduced security"
+        "Reduced security",
+        "Code reuse"
       ],
       "answer": "Code reuse"
     },
@@ -48,8 +48,8 @@
       "number": 5,
       "question": "What relationship does inheritance represent between classes?",
       "options": [
-        "Is-a relationship",
         "Has-a relationship",
+        "Is-a relationship",
         "Uses-a relationship",
         "Part-of relationship"
       ],
@@ -59,10 +59,10 @@
       "number": 6,
       "question": "If class B inherits from class A, which class can access protected methods defined in A?",
       "options": [
-        "Class B",
         "Only class A",
         "All unrelated classes",
-        "No classes"
+        "No classes",
+        "Class B"
       ],
       "answer": "Class B"
     }
@@ -72,10 +72,10 @@
       "number": 1,
       "question": "What is polymorphism in object-oriented programming?",
       "options": [
-        "The ability of objects to take on many forms",
         "A way to store data in arrays",
-        "A method of writing comments",
-        "A technique for optimizing memory"
+        "A technique for optimizing memory",
+        "The ability of objects to take on many forms",
+        "A method of writing comments"
       ],
       "answer": "The ability of objects to take on many forms"
     },
@@ -83,10 +83,10 @@
       "number": 2,
       "question": "Which feature of polymorphism allows a single interface to represent different underlying forms?",
       "options": [
-        "Method overriding",
         "Variable declaration",
         "Static typing",
-        "Memory allocation"
+        "Memory allocation",
+        "Method overriding"
       ],
       "answer": "Method overriding"
     },
@@ -105,9 +105,9 @@
       "number": 4,
       "question": "Which type of polymorphism is resolved at runtime?",
       "options": [
-        "Dynamic polymorphism",
         "Static polymorphism",
         "Compile-time polymorphism",
+        "Dynamic polymorphism",
         "Namespace polymorphism"
       ],
       "answer": "Dynamic polymorphism"
@@ -116,8 +116,8 @@
       "number": 5,
       "question": "What is an example of polymorphism in many programming languages?",
       "options": [
-        "A subclass instance used where a superclass type is expected",
         "Declaring multiple variables of the same type",
+        "A subclass instance used where a superclass type is expected",
         "Using only static methods",
         "Encapsulating fields in a class"
       ],
